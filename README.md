@@ -63,7 +63,7 @@ java -cp out base.Main -f input.txt
 
 ### Фильтрация с указанием директории и префикса
 ```bash
-java -cp out base.Main -o results -p data input.txt input2.txt
+java -cp out base.Main -o results -f -p data input.txt input2.txt
 ```
 <img width="1196" height="93" alt="image" src="https://github.com/user-attachments/assets/bc1e80b0-0296-4add-b2ba-ed9c9946b94d" />
 
